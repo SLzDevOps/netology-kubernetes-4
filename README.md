@@ -21,7 +21,7 @@ https://github.com/SLzDevOps/netology-kubernetes-4/tree/main/task1
 #### файлы .yaml
 https://github.com/SLzDevOps/netology-kubernetes-4/tree/main/task2
   
-![alt text](https://github.com/SLzDevOps/netology-kubernetes-4/blob/main/screenshot/Screenshot_985.png).
 ![alt text](https://github.com/SLzDevOps/netology-kubernetes-4/blob/main/screenshot/Screenshot_986.png).
 ![alt text](https://github.com/SLzDevOps/netology-kubernetes-4/blob/main/screenshot/Screenshot_987.png).
 ![alt text](https://github.com/SLzDevOps/netology-kubernetes-4/blob/main/screenshot/Screenshot_988.png).
+![alt text](https://github.com/SLzDevOps/netology-kubernetes-4/blob/main/screenshot/Screenshot_985.png).
